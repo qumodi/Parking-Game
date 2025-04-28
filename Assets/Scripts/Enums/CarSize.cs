@@ -1,0 +1,1 @@
+public enum CarSize{Middle,Large}
